@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>PHP Form Design</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/style1.css">
 </head>
 <body>
 		<div id = "main">
